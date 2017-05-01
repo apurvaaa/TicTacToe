@@ -1,0 +1,17 @@
+{
+  "name": "Tic Tac Toe",
+  "main": "index.js",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "scripts": {
+  },
+  "engines": {
+    "node": "6.1.x",
+    "npm": "3.8.x"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+
+  }
+}
